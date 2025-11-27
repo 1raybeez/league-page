@@ -31,7 +31,7 @@ export const managers = [
       "name": "Ray",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Richmond", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Greatest Commish Ever (self-proclaimed, but nobody’s arguing). Wannabe paper champ. Bargain draft hunter. Trade wizard. The respectable half of Prestigio Mundial. Dad of 3, husband, and professional sufferer of Falcons heartbreak. Dawgs bark, Braves chop, and Ray Frickin’ Long always cooks.",
       "photo": "/managers/Ray.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -44,7 +44,7 @@ export const managers = [
       "favoritePlayer": 9509, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Your fantasy team's philosophy",
+      "philosophy": "Make sure you have more money left than everyone else when the draft ends.",
       "tradingScale": 8, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
