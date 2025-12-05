@@ -29,8 +29,6 @@ export const managers = [
     {
       "roster": 1,  // 342828350391230464
       "name": "Ray",
-      "role": "Commissioner"
-      "coOwners: "Jeffrey"
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Richmond", // (optional)
       "bio": "Greatest Commish Ever (self-proclaimed, but nobody’s arguing). Wannabe paper champ. Bargain draft hunter. Trade wizard. The respectable half of Prestigio Mundial. Dad of 3, husband, and professional sufferer of Falcons heartbreak. Dawgs bark, Braves chop, and Ray Frickin’ Long always cooks.",
